@@ -1,0 +1,113 @@
+{
+  "source": "已验收电子重构新旧文件名对照",
+  "files": [
+    {
+      "old_name": "自动控制原理2011试卷【电子重构版】.pdf",
+      "new_name": "自动控制理论_2011年3月B卷_试卷【电子重构版】.pdf",
+      "basis": "卷面2011年3月14日B卷",
+      "content_modified": false,
+      "status": "renamed",
+      "new_absolute_path": "C:\\Users\\28742\\Desktop\\学习\\考试大王\\自动控制理论\\历年真题\\自动控制理论_2011年3月B卷_试卷【电子重构版】.pdf",
+      "archive_relative_path": "自动控制理论/试卷/2011年/历年真题/自动控制理论_2011年3月B卷_试卷【电子重构版】.pdf"
+    },
+    {
+      "old_name": "自动控制原理2011参考答案【电子重构版】.pdf",
+      "new_name": "自动控制理论_2011年3月B卷_参考答案【电子重构版】.pdf",
+      "basis": "答案课程B，2011年3月，与同卷题面配对",
+      "content_modified": false,
+      "status": "renamed",
+      "new_absolute_path": "C:\\Users\\28742\\Desktop\\学习\\考试大王\\自动控制理论\\历年真题\\自动控制理论_2011年3月B卷_参考答案【电子重构版】.pdf",
+      "archive_relative_path": "自动控制理论/试卷/2011年/历年真题/自动控制理论_2011年3月B卷_参考答案【电子重构版】.pdf"
+    },
+    {
+      "old_name": "自动控制原理2012试卷【电子重构版】.pdf",
+      "new_name": "自动控制理论_2012年1月A卷_试卷【电子重构版】.pdf",
+      "basis": "用户确认电子重构卷面2012年1月4日A卷",
+      "content_modified": false,
+      "status": "renamed",
+      "new_absolute_path": "C:\\Users\\28742\\Desktop\\学习\\考试大王\\自动控制理论\\历年真题\\自动控制理论_2012年1月A卷_试卷【电子重构版】.pdf",
+      "archive_relative_path": "自动控制理论/试卷/2012年/历年真题/自动控制理论_2012年1月A卷_试卷【电子重构版】.pdf"
+    },
+    {
+      "old_name": "自动控制原理2013试卷【电子重构版】.pdf",
+      "new_name": "自动控制理论_2014年1月A卷_试卷【电子重构版】.pdf",
+      "basis": "卷面2014年1月13日A卷，原文件2013标签与卷面不同",
+      "content_modified": false,
+      "status": "renamed",
+      "new_absolute_path": "C:\\Users\\28742\\Desktop\\学习\\考试大王\\自动控制理论\\历年真题\\自动控制理论_2014年1月A卷_试卷【电子重构版】.pdf",
+      "archive_relative_path": "自动控制理论/试卷/2014年/历年真题/自动控制理论_2014年1月A卷_试卷【电子重构版】.pdf"
+    },
+    {
+      "old_name": "自动控制原理2014期末题【电子重构版】.pdf",
+      "new_name": "自动控制理论_2014年12月A卷_试卷【电子重构版】.pdf",
+      "basis": "卷面2014年12月30日A卷",
+      "content_modified": false,
+      "status": "renamed",
+      "new_absolute_path": "C:\\Users\\28742\\Desktop\\学习\\考试大王\\自动控制理论\\历年真题\\自动控制理论_2014年12月A卷_试卷【电子重构版】.pdf",
+      "archive_relative_path": "自动控制理论/试卷/2014年/历年真题/自动控制理论_2014年12月A卷_试卷【电子重构版】.pdf"
+    },
+    {
+      "old_name": "自动控制原理2015期末题【电子重构版】.pdf",
+      "new_name": "自动控制理论_2015年月份待核卷别待核卷_试卷【电子重构版】.pdf",
+      "basis": "2015只保留原年份标签；当前无卷首，月份卷别待核",
+      "content_modified": false,
+      "status": "renamed",
+      "new_absolute_path": "C:\\Users\\28742\\Desktop\\学习\\考试大王\\自动控制理论\\历年真题\\自动控制理论_2015年月份待核卷别待核卷_试卷【电子重构版】.pdf",
+      "archive_relative_path": "自动控制理论/试卷/年份待核/历年真题/自动控制理论_2015年月份待核卷别待核卷_试卷【电子重构版】.pdf"
+    },
+    {
+      "old_name": "自动控制原理2016期末题【电子重构版】.pdf",
+      "new_name": "自动控制理论_2016年12月A卷（课程B）_试卷【电子重构版】.pdf",
+      "basis": "卷面2016年12月10日，课程自动控制原理B，A卷",
+      "content_modified": false,
+      "status": "renamed",
+      "new_absolute_path": "C:\\Users\\28742\\Desktop\\学习\\考试大王\\自动控制理论\\历年真题\\自动控制理论_2016年12月A卷（课程B）_试卷【电子重构版】.pdf",
+      "archive_relative_path": "自动控制理论/试卷/2016年/历年真题/自动控制理论_2016年12月A卷（课程B）_试卷【电子重构版】.pdf"
+    },
+    {
+      "old_name": "西安交大自动控制原理期末试题_电气学院6套【电子重构版·试卷】.pdf",
+      "new_name": "自动控制理论_2004至2008年及年份待核卷_试卷合集（电气学院）【电子重构版】.pdf",
+      "basis": "与南卷汇同六组来源；其中2004年12月卷缺7至9题",
+      "content_modified": false,
+      "status": "renamed",
+      "new_absolute_path": "C:\\Users\\28742\\Desktop\\学习\\考试大王\\自动控制理论\\历年真题\\自动控制理论_2004至2008年及年份待核卷_试卷合集（电气学院）【电子重构版】.pdf",
+      "archive_relative_path": "自动控制理论/试卷/跨年合集/历年真题/自动控制理论_2004至2008年及年份待核卷_试卷合集（电气学院）【电子重构版】.pdf"
+    },
+    {
+      "old_name": "自控往年题—试卷合集【电子重构版】.pdf",
+      "new_name": "自动控制理论_2011年及2015年1月、2016年1月卷_试卷合集【电子重构版】.pdf",
+      "basis": "卷面2016年1月7日A、2015年1月9日A、2011年卷月别待核",
+      "content_modified": false,
+      "status": "renamed",
+      "new_absolute_path": "C:\\Users\\28742\\Desktop\\学习\\考试大王\\自动控制理论\\历年真题\\自动控制理论_2011年及2015年1月、2016年1月卷_试卷合集【电子重构版】.pdf",
+      "archive_relative_path": "自动控制理论/试卷/跨年合集/历年真题/自动控制理论_2011年及2015年1月、2016年1月卷_试卷合集【电子重构版】.pdf"
+    },
+    {
+      "old_name": "自控往年题—参考答案合集【电子重构版】.pdf",
+      "new_name": "自动控制理论_2008年12月A卷及2011年卷_参考答案合集【电子重构版】.pdf",
+      "basis": "含2011答案与2008年12月21日A卷答案",
+      "content_modified": false,
+      "status": "renamed",
+      "new_absolute_path": "C:\\Users\\28742\\Desktop\\学习\\考试大王\\自动控制理论\\历年真题\\自动控制理论_2008年12月A卷及2011年卷_参考答案合集【电子重构版】.pdf",
+      "archive_relative_path": "自动控制理论/试卷/跨年合集/历年真题/自动控制理论_2008年12月A卷及2011年卷_参考答案合集【电子重构版】.pdf"
+    },
+    {
+      "old_name": "09_西安交大自动控制原理_五套试卷合集【电子重构版】.pdf",
+      "new_name": "自动控制理论_年份月份卷别待核_五组试卷合集【电子重构版】.pdf",
+      "basis": "五组均无可确认年月卷别；前四组从第三题开始",
+      "content_modified": false,
+      "status": "renamed",
+      "new_absolute_path": "C:\\Users\\28742\\Desktop\\学习\\考试大王\\自动控制理论\\历年真题\\自动控制理论_年份月份卷别待核_五组试卷合集【电子重构版】.pdf",
+      "archive_relative_path": "自动控制理论/试卷/跨年合集/历年真题/自动控制理论_年份月份卷别待核_五组试卷合集【电子重构版】.pdf"
+    },
+    {
+      "old_name": "09_西安交大自动控制原理_五套参考答案合集【电子重构版】.pdf",
+      "new_name": "自动控制理论_年份月份卷别待核_五组参考答案合集【电子重构版】.pdf",
+      "basis": "对应五组试卷，保留原印刷答案与给分项",
+      "content_modified": false,
+      "status": "renamed",
+      "new_absolute_path": "C:\\Users\\28742\\Desktop\\学习\\考试大王\\自动控制理论\\历年真题\\自动控制理论_年份月份卷别待核_五组参考答案合集【电子重构版】.pdf",
+      "archive_relative_path": "自动控制理论/试卷/跨年合集/历年真题/自动控制理论_年份月份卷别待核_五组参考答案合集【电子重构版】.pdf"
+    }
+  ]
+}
