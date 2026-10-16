@@ -109,8 +109,8 @@
 
 ```sh
 git lfs install
-git clone https://github.com/Viyao691/XJTU-Share.git
-cd XJTU-Share
+git clone https://github.com/Viyao691/XJTU-Share-2026.git
+cd XJTU-Share-2026
 git lfs pull
 ```
 
@@ -137,13 +137,13 @@ git -C materials lfs pull
 3. 在 Pull Request 中说明来源、适用课程、年份及资料身份，区分原卷、回忆、重构、参考答案和个人解答。
 4. 上传前确认具有分享权限，去除不适合公开的姓名、学号、联系方式等个人信息；不要提交账号、密码或密钥。
 
-没有条件直接提交资料，也可以通过 [Issues](https://github.com/Viyao691/XJTU-Share/issues) 提供补充线索。发现分类错误、年份冲突、答案问题或文件损坏时，请附上路径和具体位置，方便核对。
+没有条件直接提交资料，也可以通过 [Issues](https://github.com/Viyao691/XJTU-Share-2026/issues) 提供补充线索。发现分类错误、年份冲突、答案问题或文件损坏时，请附上路径和具体位置，方便核对。
 
 ## 版权与使用说明
 
 本仓库部分资料借鉴或搜集自互联网及其他作者的公开仓库，相关内容的版权归原作者或权利人所有。感谢原作者和分享者的整理与分享。
 
-如收录内容对您造成冒犯，或涉及侵权、不宜公开、署名或来源遗漏等问题，请通过本仓库的 [Issues](https://github.com/Viyao691/XJTU-Share/issues) 联系维护者，并注明相关文件路径及处理诉求；我会及时核实，并按要求删除相关资料或补充署名与来源。
+如收录内容对您造成冒犯，或涉及侵权、不宜公开、署名或来源遗漏等问题，请通过本仓库的 [Issues](https://github.com/Viyao691/XJTU-Share-2026/issues) 联系维护者，并注明相关文件路径及处理诉求；我会及时核实，并按要求删除相关资料或补充署名与来源。
 
 课程资料的版权归各自作者或权利人所有，原作者已经标明的许可和使用条件应继续遵守。仓库公开不代表维护者拥有全部第三方资料的版权，也不对这些资料统一授予新的许可。
 
